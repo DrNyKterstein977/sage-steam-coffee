@@ -1,1 +1,6 @@
-...
+{
+  "name": "sage-steam-coffee",
+  "scripts": {
+    "dev": "next dev"
+  }
+}
